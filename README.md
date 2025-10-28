@@ -16,11 +16,13 @@ This repository will host the augmented versions of two key benchmarks:
 
 The primary enhancement for both datasets is the inclusion of **four distinct reference answers for each data instance**, generated to correspond to specific quality scores (e.g., Scores 1, 2, 3, and 4), allowing for a controlled study of reference answer score bias.
 
-### ⚠️ Important Notice: Data Availability
+### Data Availability
 
-**The complete, augmented FLASK and BiGGen datasets are currently undergoing a mandatory data disclosure review by the authors' employer.**
+The complete, augmented FLASK and BiGGen datasets are available upon request. Please email the authors to request access.
 
-We are committed to transparency and open science. The full datasets will be made publicly available in this repository immediately following the completion and approval of this review. We appreciate your patience and understanding.
+**A Note on Double-Blind Review:** To comply with the double-blind review policy, the authors' email addresses are temporarily omitted. This information will be made publicly available here as soon as the paper is accepted.
+
+Thank you for your understanding.
 
 
 ## 💡 Data Synthesis Pipeline
