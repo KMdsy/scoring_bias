@@ -2,7 +2,6 @@
 
 This is the official repository for the paper:
 **Evaluating Scoring Bias in LLM-as-a-Judge**
-[link](https://arxiv.org/abs/2506.22316)
 
 This repository will contain the data resources introduced in the paper, designed to facilitate research on scoring bias in LLM-as-a-Judge evaluations.
 
